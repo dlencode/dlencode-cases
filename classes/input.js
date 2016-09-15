@@ -5,7 +5,7 @@
 
 class Input {
   constructor(id) {
-    this.id = document.getElementById(id);
+    this.id = document.querySelector(id);
     this.placeholder = this.id.placeholder;
     this.value = this.id.value;
   }
