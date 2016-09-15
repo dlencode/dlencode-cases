@@ -1,4 +1,4 @@
 ## Dlencode cases
 
 ### Clases
-[Input](./blob/master/classes/input.js)
+[Input](./classes/input.js)
