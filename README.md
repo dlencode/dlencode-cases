@@ -1,2 +1,4 @@
-# modules
-Modules on ES6
+## Dlencode cases
+
+### Clases
+[Input](./blob/master/classes/input.js)
