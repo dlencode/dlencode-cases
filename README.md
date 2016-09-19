@@ -4,4 +4,4 @@
 
 [Input](./classes/input.js)
 
-[Spoiler](./classes/spolier.js)
+[Spoiler](./classes/spoiler.js)
