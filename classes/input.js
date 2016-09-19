@@ -11,20 +11,29 @@ class Input {
   }
 
   /**
-   * describe() - follow for each entered char and log to console
+   * follow() - follow for each entered char and log to console
    */
 
-  describe() {
+  follow() {
     this.id.addEventListener('keyup', function () {
       console.log(this.value);
     });
   }
 
   /**
-   * info() - log information about this input
+   * info() - log information about this Input
    */
 
   info() {
     console.log(this);
   }
 }
+
+// init Input
+let input = new Input('input');
+
+// describe follow()
+input.follow();
+
+// describe info()
+input.info();
